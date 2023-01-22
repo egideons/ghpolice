@@ -19,7 +19,7 @@
 # INSTRUCTION:
 - Copy the folder "ghpolice" to "Local Disk (C):/xampp/htdocs/"
 
-# TO RUN THE CHAT APPLICATION:
+# TO RUN THE WEBSITE:
 - Click on the "Admin" button beside the MySQL "start/stop" button and it will automatically redirect you to the PHPMyAdmin interface 
 - On the side nav or sidebar you will see a list of databases, click on "New" to create a new database 
 - Type the name of the new database in the box and click on the "create" button 
