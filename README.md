@@ -1,8 +1,8 @@
 ![Screenshot (54)](https://user-images.githubusercontent.com/33707645/213895098-6881d8d9-456c-4286-a9a4-deb7e278e225.png)
 
 # Login Details
-Username - 1111
-Passsword - admin123
+- Username - 1111
+- Passsword - admin123
 
 # A Security Information System for Police
 
